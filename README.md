@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="it.gif" width="1010" height="300"/>
+
 <!--
 **skytecat/skytecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
