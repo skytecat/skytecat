@@ -2,6 +2,23 @@
 
 <img src="it.gif" width="1010" height="400"/>
 
-<!--
-FF69B4
--->
+## Мои проекты
+
+### Machine Learning
+| Project name | Description | Stack       |
+|--------------|-------------|-------------|
+| [RecipeNER](https://github.com/skytecat/RecipeNER)   | Поиск именованных сущностей (NER) в рецептах блюд с помощью LSTM  | ? |
+| [ClassicML](https://github.com/skytecat/ClassicML)  | Реализация классических ML алгоритмов  | ?  |
+
+### C/C++
+| Project name | Description | Stack       |
+|--------------|-------------|-------------|
+| [3DViewer](https://github.com/skytecat/3DViewer) | Приложение для визуализации 3D моделей | C++, OOP, QT, Makefile, QMake, GTest, OpenGL, MVC |
+| [Snake](https://github.com/skytecat/Snake) | Реализация игры «Змейка» | C++, OOP, Qt, Makefile, QMake, GTest, MVC, ncurses |
+| [Tetris](https://github.com/skytecat/Tetris) | Реализация игры «Тетрис» | C, OOP, FSM, Makefile, Check.h, ncurses |
+
+### SQL
+| Project name | Description | Stack       |
+|--------------|-------------|-------------|
+| [TheCheapestRoute](https://github.com/skytecat/TheCheapestRoute) | SQL statement that returns the cheapest tour using a Recursive Query | PostgreSQL |
+| [CurrencyTable](https://github.com/skytecat/CurrencyTable) | Data Warehousing (DWH) and ETL process | PostgreSQL |
