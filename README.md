@@ -7,8 +7,8 @@
 ### Machine Learning
 | Название проекта | Описание | Стек       |
 |--------------|-------------|-------------|
-| [RecipeNER](https://github.com/skytecat/RecipeNER)   | Поиск именованных сущностей (NER) в рецептах блюд с помощью LSTM  | ? |
-| [ClassicML](https://github.com/skytecat/ClassicML)  | Реализация классических ML алгоритмов  | ?  |
+| [RecipeNER](https://github.com/skytecat/RecipeNER)   | Поиск именованных сущностей (NER) в рецептах блюд с помощью LSTM  | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook |
+| [ClassicML](https://github.com/skytecat/ClassicML)  | Реализация классических ML алгоритмов  | Scikit-learn, NumPy, Matplotlib, Jupyter Notebook  |
 
 ### C/C++
 | Название проекта | Описание | Стек       |
@@ -20,5 +20,5 @@
 ### SQL
 | Название проекта | Описание | Стек       |
 |--------------|-------------|-------------|
-| [TheCheapestRoute](https://github.com/skytecat/TheCheapestRoute) | SQL statement that returns the cheapest tour using a Recursive Query | PostgreSQL |
-| [CurrencyTable](https://github.com/skytecat/CurrencyTable) | Data Warehousing (DWH) and ETL process | PostgreSQL |
+| [TheCheapestRoute](https://github.com/skytecat/TheCheapestRoute) | SQL-запрос, который возвращает самый дешевый тур с использованием рекурсии | PostgreSQL |
+| [CurrencyTable](https://github.com/skytecat/CurrencyTable) | Data Warehousing (DWH) и процесс ETL | PostgreSQL |
