@@ -7,7 +7,7 @@
 ### **Machine Learning**
 | Проект | Описание | Стек       |
 |--------------|-------------|-------------|
-| [RecipeNER](https://github.com/skytecat/RecipeNER)   | Поиск именованных сущностей (NER) в рецептах блюд с помощью LSTM  | PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook |
+| [RecipeNER](https://github.com/skytecat/RecipeNER)   | Поиск именованных сущностей (NER) в рецептах блюд с помощью LSTM  | LSTM, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook |
 | [ClassicML](https://github.com/skytecat/ClassicML)  | Реализация классических ML алгоритмов  | Scikit-learn, NumPy, Matplotlib, Jupyter Notebook  |
 
 ### **C/C++**
