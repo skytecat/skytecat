@@ -7,7 +7,7 @@
 ### **Machine Learning & Data Science**
 | Проект | Описание | Стек       |
 |--------------|-------------|-------------|
-| [FraudDetection](https://github.com/skytecat/FraudDetection)  | Разработка моделей для поиска мошеннических транзакций  с использованием нескольких методов балансировки данных | Scikit-learn, Imbalanced-learn, Pandas, Numpy, Matplotlib, Seaborn |
+| [FraudDetection](https://github.com/skytecat/FraudDetection)  | Разработка моделей для поиска мошеннических транзакций  с использованием нескольких методов балансировки данных | Scikit-learn, Imbalanced-learn, Pandas, NumPy, Matplotlib, Seaborn |
 | [RecipeNER](https://github.com/skytecat/RecipeNER)   | Поиск именованных сущностей (NER) в рецептах блюд с помощью LSTM  | LSTM, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
 | [ClassicML](https://github.com/skytecat/ClassicML)  | Реализация классических ML алгоритмов  | Scikit-learn, NumPy, Matplotlib |
 
