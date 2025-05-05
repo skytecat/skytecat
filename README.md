@@ -21,5 +21,6 @@
 ### **SQL**
 | Проект | Описание | Стек       |
 |--------------|-------------|-------------|
-| [TheCheapestRoute](https://github.com/skytecat/TheCheapestRoute) | SQL-запрос, который возвращает самый дешёвый тур с использованием рекурсии | PostgreSQL |
-| [CurrencyTable](https://github.com/skytecat/CurrencyTable) | Data Warehousing (DWH) и процесс ETL | PostgreSQL |
+| [SQLBootcamp](https://github.com/skytecat/SQLBootcamp) | Серия проектов по изучению SQL и работе с реляционными базами данных | SQL, PostgreSQL |
+| [TheCheapestRoute](https://github.com/skytecat/TheCheapestRoute) | SQL-запрос, который возвращает самый дешёвый тур с использованием рекурсии | SQL, PostgreSQL |
+| [CurrencyTable](https://github.com/skytecat/CurrencyTable) | Data Warehousing (DWH) и процесс ETL | SQL, PostgreSQL |
