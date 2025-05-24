@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Data+Science&vCenter=True&height=40&size=35&width=1000&center=True&color=FF69B4)](https://git.io/typing-svg)
 
 <img src="it.gif" width="1010" height="400"/>
-
 ## Мои проекты
 
 ### **Machine Learning & Data Science**
@@ -10,6 +9,7 @@
 | [FraudDetection](https://github.com/skytecat/FraudDetection)  | Разработка моделей для поиска мошеннических транзакций  с использованием нескольких методов балансировки данных | Scikit-learn, Imbalanced-learn, Pandas, NumPy, Matplotlib, Seaborn |
 | [RecipeNER](https://github.com/skytecat/RecipeNER)   | Поиск именованных сущностей (NER) в рецептах блюд с помощью LSTM  | LSTM, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
 | [ClassicML](https://github.com/skytecat/ClassicML)  | Реализация классических ML алгоритмов  | Scikit-learn, NumPy, Matplotlib |
+| [SuperstoreDashboard](https://github.com/skytecat/SuperstoreDashboard)  | Анализ ключевых метрик компании Superstore за 2018, 2019 г | Tableau Public, Excel |
 
 ### **C/C++**
 | Проект | Описание | Стек       |
