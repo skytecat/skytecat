@@ -7,7 +7,7 @@
 ### **Machine Learning & Data Science**
 | Проект | Описание | Стек       |
 |--------------|-------------|-------------|
-| [DogBreedBot](https://github.com/skytecat/DogBreedBot)  | Telegram-бот для определения породы собаки по фото |  |
+| [DogBreedBot](https://github.com/skytecat/DogBreedBot)  | Telegram-бот для определения породы собаки по фото | PyTorch, scikit-learn, Ultralytics, YOLOv8, ResNet18, Logistic Regression, Aiogram 3 |
 | [FraudDetection](https://github.com/skytecat/FraudDetection)  | Разработка моделей для поиска мошеннических транзакций  с использованием нескольких методов балансировки данных | Scikit-learn, Imbalanced-learn, Pandas, NumPy, Matplotlib, Seaborn |
 
 ### **C/C++**
